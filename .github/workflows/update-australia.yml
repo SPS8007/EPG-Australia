@@ -1,1 +1,36 @@
+name: Update Australia EPG
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "15 2 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download Australia EPG
+        run: |
+          curl -L --fail --retry 3 \
+            "https://epg.pw/xmltv/epg_AU.xml" \
+            -o australia.xml
+
+      - name: Verify EPG
+        run: |
+          test -s australia.xml
+          head -c 100 australia.xml
+
+      - name: Commit EPG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add australia.xml
+          git diff --cached --quiet || git commit -m "Update Australia EPG"
+          git push
