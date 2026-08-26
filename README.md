@@ -1,32 +1,13 @@
 # EPG-Australia
 
-Australia IPTV M3U + XMLTV project.
+Stable-ID Australian IPTV playlist and XMLTV EPG.
 
-## TiviMate URLs
+TiviMate:
+- M3U: https://raw.githubusercontent.com/SPS8007/EPG-Australia/main/australia.m3u
+- EPG: https://raw.githubusercontent.com/SPS8007/EPG-Australia/main/australia.xml
 
-M3U:
-https://raw.githubusercontent.com/SPS8007/EPG-Australia/main/australia.m3u
+The GitHub Action downloads the current EPG.pw Australia XMLTV feed daily and transforms its changing source channel IDs into stable AU IDs used by the M3U.
 
-EPG:
-https://raw.githubusercontent.com/SPS8007/EPG-Australia/main/australia.xml
-
-The EPG XML is refreshed automatically each day from EPG.pw Australia by GitHub Actions.
-
-## Mapping rules
-
-The AU mapping uses Channel DNA rules. Australian Fox Sports channel numbers are treated as authoritative where applicable:
-
-- 500 = FOX Sports News
-- 501 = FOX Cricket
-- 502 = FOX League
-- 503 = FOX Sports 503
-- 504 = FOX Footy
-- 505 = FOX Sports 505
-- 506 = FOX Sports 506
-- 507 = FOX Sports More / 507
-
-ESPN Play PPV/event feeds are retained as event streams and are not incorrectly mapped to the permanent ESPN AU channel.
-
-## Daily update
-
-GitHub Actions runs daily at 02:15 UTC and can also be started manually from Actions > Update Australia EPG > Run workflow.
+Special rule:
+- ESPN PLAY / PPV event feeds are not mapped to the permanent ESPN AU EPG.
+- AU Fox Sports channels use the established 500-507 channel-number mapping.

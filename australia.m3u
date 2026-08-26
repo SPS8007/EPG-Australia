@@ -1,91 +1,91 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/SPS8007/EPG-Australia/main/australia.xml"
 #EXTINF:-1 tvg-id="AU-00001" tvg-name="####### 9NOW ᴿᴬᵂ #######" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",####### 9NOW ᴿᴬᵂ #######
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/2115054117.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00029" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1910592234.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00037" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1142155078.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00045" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/2042203095.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00053" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1018459958.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00024" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/80594655.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00032" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/993014551.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00040" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1355248012.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00048" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/2104556519.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00056" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/743856497.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00022" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1590850896.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00030" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1212021754.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00038" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/2005661768.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00046" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/675068036.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00054" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1604668157.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00023" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1936720362.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00031" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/43603911.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00039" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1510274667.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00047" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/280063134.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00055" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1573294752.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00025" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/876287674.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00033" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/858167836.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00041" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/141843807.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00049" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1229628206.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00057" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1848118461.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00019" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1205409581.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00026" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/882764907.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00034" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/615252923.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00042" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1372849363.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00050" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1356019046.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00020" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1615921487.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00027" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/394098734.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00035" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1639205897.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00043" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1038833431.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00051" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1889576095.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00021" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/772798779.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00028" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1598705483.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00036" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/420831915.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00044" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/910527129.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00052" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1202112411.ts
 #EXTINF:-1 tvg-id="AU-00002" tvg-name="### AFL TV PPV ###" group-title="AU | Sport | PPV/Event",### AFL TV PPV ###
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/616361598.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="AFL TV 00 | Collingwood vs Carlton 10.30" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",AFL TV 00 | Collingwood vs Carlton 10.30
+#EXTINF:-1 tvg-id="au-au-00003" tvg-name="AFL TV 00 | Collingwood vs Carlton 10.30" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/543295825.ts
 #EXTINF:-1 tvg-id="AU-00004" tvg-name="30" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",30
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/118301142.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="10am Sunday" group-title="AU | Sport | PPV/Event",10am Sunday
+#EXTINF:-1 tvg-id="au-au-00005" tvg-name="10am Sunday" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/293167336.ts
 #EXTINF:-1 tvg-id="AU-00006" tvg-name="25AM" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",25AM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/435595037.ts
@@ -113,7 +113,7 @@ https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/614108938.ts
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1725123399.ts
 #EXTINF:-1 tvg-id="AU-00016" tvg-name="7NOW" group-title="AU | General Entertainment",7NOW
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/477278691.ts
-#EXTINF:-1 tvg-id="1185" tvg-name="7BRAVO" group-title="AU | General Entertainment",7BRAVO
+#EXTINF:-1 tvg-id="au-au-00010" tvg-name="7BRAVO" group-title="AU | General Entertainment",7BRAVO
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/146994937.ts
 #EXTINF:-1 tvg-id="AU-00073" tvg-name="BLOOMBERG" group-title="AU | General Entertainment",BLOOMBERG
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1271188507.ts
@@ -143,19 +143,19 @@ https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/522359086.ts
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/624549109.ts
 #EXTINF:-1 tvg-id="3276" tvg-name="ABC KIDS" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | Kids",ABC KIDS
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/508595905.ts
-#EXTINF:-1 tvg-id="3276" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | VIC",ABC
+#EXTINF:-1 tvg-id="au-au-00060" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | VIC",ABC KIDS
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/353587979.ts
 #EXTINF:-1 tvg-id="5880" tvg-name="ABC ME" group-title="AU | General Entertainment",ABC ME
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1744114254.ts
-#EXTINF:-1 tvg-id="3276" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | WA",ABC
+#EXTINF:-1 tvg-id="au-au-00062" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | WA",ABC KIDS
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1041834324.ts
-#EXTINF:-1 tvg-id="3276" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | NSW",ABC
+#EXTINF:-1 tvg-id="au-au-00063" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | NSW",ABC KIDS
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/681108882.ts
 #EXTINF:-1 tvg-id="AU-00065" tvg-name="AL JAZEERA (NZ)" group-title="AU | General Entertainment",AL JAZEERA (NZ)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/477496850.ts
 #EXTINF:-1 tvg-id="AU-00077" tvg-name="CHANNEL7" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" group-title="AU | General Entertainment | NSW",CHANNEL7
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1645750314.ts
-#EXTINF:-1 tvg-id="1209" tvg-name="CHANNEL 7TWO" tvg-logo="https://i.mjh.nz/.images/auto-7two-per-701123.png" group-title="AU | General Entertainment | NSW",CHANNEL 7TWO
+#EXTINF:-1 tvg-id="au-au-00018" tvg-name="CHANNEL 7TWO" tvg-logo="https://i.mjh.nz/.images/auto-7two-per-701123.png" group-title="AU | General Entertainment | NSW",7TWO
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/937864739.ts
 #EXTINF:-1 tvg-id="1962" tvg-name="10 BOLD" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png" group-title="AU | General Entertainment",10 BOLD
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1391471800.ts
@@ -173,13 +173,13 @@ https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/79912036.ts
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1806062706.ts
 #EXTINF:-1 tvg-id="125577" tvg-name="ABC NEWS AUSTRALIA" group-title="AU | News",ABC NEWS AUSTRALIA
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1379815506.ts
-#EXTINF:-1 tvg-id="0" tvg-name="RACING" group-title="AU | General Entertainment",RACING
+#EXTINF:-1 tvg-id="au-au-00207" tvg-name="RACING" group-title="AU | General Entertainment",RACING.COM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/661291710.ts
-#EXTINF:-1 tvg-id="0" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | VIC",RACING.COM
+#EXTINF:-1 tvg-id="au-au-00208" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | VIC",RACING.COM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/686665430.ts
-#EXTINF:-1 tvg-id="0" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment",RACING.COM
+#EXTINF:-1 tvg-id="au-au-00209" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment",RACING.COM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1191941422.ts
-#EXTINF:-1 tvg-id="0" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | WA",RACING.COM
+#EXTINF:-1 tvg-id="au-au-00210" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | WA",RACING.COM
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/457676806.ts
 #EXTINF:-1 tvg-id="AU-00213" tvg-name="REDBULL TV (NZ)" group-title="AU | General Entertainment",REDBULL TV (NZ)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/495027684.ts
@@ -209,7 +209,7 @@ https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/117549614.ts
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1842153536.ts
 #EXTINF:-1 tvg-id="AU-00224" tvg-name="SBS WORLD MOVIES" group-title="AU | Movies | WA",SBS WORLD MOVIES
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1535670458.ts
-#EXTINF:-1 tvg-id="3249" tvg-name="TVSN SHOPPING (NZ)" group-title="AU | General Entertainment",TVSN SHOPPING (NZ)
+#EXTINF:-1 tvg-id="au-au-00331" tvg-name="TVSN SHOPPING (NZ)" group-title="AU | General Entertainment",TVSN
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1343964069.ts
 #EXTINF:-1 tvg-id="AU-00069" tvg-name="BEIN SPORTS 1" group-title="AU | Sport",BEIN SPORTS 1
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1091577176.ts
@@ -217,25 +217,25 @@ https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1091577176.ts
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/44676260.ts
 #EXTINF:-1 tvg-id="AU-00071" tvg-name="BEIN SPORTS 3" group-title="AU | Sport",BEIN SPORTS 3
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/2123073131.ts
-#EXTINF:-1 tvg-id="6459" tvg-name="ESPN 1" group-title="AU | Sport",ESPN 1
+#EXTINF:-1 tvg-id="au-au-00078" tvg-name="ESPN 1" group-title="AU | Sport",ESPN
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/834184780.ts
-#EXTINF:-1 tvg-id="6459" tvg-name="ESPN 2" group-title="AU | Sport",ESPN 2
+#EXTINF:-1 tvg-id="au-au-00079" tvg-name="ESPN 2" group-title="AU | Sport",ESPN
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/737452852.ts
 #EXTINF:-1 tvg-id="1461" tvg-name="Fox Sports News (Channel 500)" group-title="AU | Sport",Fox Sports News (Channel 500)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/2080813062.ts
-#EXTINF:-1 tvg-id="1320" tvg-name="Fox Sports 501 (Channel 501)" group-title="AU | Sport",Fox Sports 501 (Channel 501)
+#EXTINF:-1 tvg-id="AU-00183" tvg-name="Fox Sports 501 (Channel 501)" group-title="AU | Sport",Fox Sports 501 (Channel 501)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/105124690.ts
-#EXTINF:-1 tvg-id="1329" tvg-name="Fox Sports 502 (Channel 502)" group-title="AU | Sport",Fox Sports 502 (Channel 502)
+#EXTINF:-1 tvg-id="AU-00184" tvg-name="Fox Sports 502 (Channel 502)" group-title="AU | Sport",Fox Sports 502 (Channel 502)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/2117545493.ts
 #EXTINF:-1 tvg-id="1545" tvg-name="Fox Sports 503 (Channel 503)" group-title="AU | Sport",Fox Sports 503 (Channel 503)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/2070982515.ts
-#EXTINF:-1 tvg-id="1365" tvg-name="Fox Sports 504 (Channel 504)" group-title="AU | Sport",Fox Sports 504 (Channel 504)
+#EXTINF:-1 tvg-id="AU-00186" tvg-name="Fox Sports 504 (Channel 504)" group-title="AU | Sport",Fox Sports 504 (Channel 504)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/2137885108.ts
 #EXTINF:-1 tvg-id="1344" tvg-name="Fox Sports 505 (Channel 505)" group-title="AU | Sport",Fox Sports 505 (Channel 505)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/566233897.ts
 #EXTINF:-1 tvg-id="1386" tvg-name="Fox Sports 506 (Channel 506)" group-title="AU | Sport",Fox Sports 506 (Channel 506)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1244903900.ts
-#EXTINF:-1 tvg-id="1377" tvg-name="Fox Sports 507 (Channel 507)" group-title="AU | Sport",Fox Sports 507 (Channel 507)
+#EXTINF:-1 tvg-id="AU-00189" tvg-name="Fox Sports 507 (Channel 507)" group-title="AU | Sport",Fox Sports 507 (Channel 507)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/631842959.ts
 #EXTINF:-1 tvg-id="AU-00225" tvg-name="SKY NEWS" group-title="AU | News",SKY NEWS
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/303062183.ts
@@ -355,7 +355,7 @@ https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/447922582.ts
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/674415833.ts
 #EXTINF:-1 tvg-id="AU-00128" tvg-name="(AU) ESPN PLAY 51 (D)" group-title="AU | Sport | PPV/Event",(AU) ESPN PLAY 51 (D)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/224983342.ts
-#EXTINF:-1 tvg-id="6459" tvg-name="WatchESPN NCAAM | Cal State Northridge vs. Idaho | 11-09-2023 9:00pm" group-title="AU | Sport | PPV/Event",WatchESPN NCAAM | Cal State Northridge vs. Idaho | 11-09-2023 9:00pm
+#EXTINF:-1 tvg-id="au-au-00129" tvg-name="WatchESPN NCAAM | Cal State Northridge vs. Idaho | 11-09-2023 9:00pm" group-title="AU | Sport | PPV/Event",ESPN
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1889352690.ts
 #EXTINF:-1 tvg-id="AU-00130" tvg-name="(AU) ESPN PLAY 53 (D)" group-title="AU | Sport | PPV/Event",(AU) ESPN PLAY 53 (D)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/266982291.ts
@@ -459,23 +459,23 @@ https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/335005035.ts
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/145788718.ts
 #EXTINF:-1 tvg-id="AU-00334" tvg-name="Panthers @ Sharks 4:30am Sun UK // 11:30pm Sat ET" group-title="AU | Sport | PPV/Event",Panthers @ Sharks 4:30am Sun UK // 11:30pm Sat ET
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1496354595.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00335" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/97970456.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00336" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/187916218.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00337" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1461117235.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00338" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1537135363.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00339" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/935713033.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00340" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/418711771.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00341" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1894556205.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00342" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1042434819.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00343" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1670049716.ts
 #EXTINF:-1 tvg-id="AU-00344" tvg-name="###### OPTUS PPV ######" group-title="AU | Sport | PPV/Event",###### OPTUS PPV ######
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1913132386.ts
@@ -497,7 +497,7 @@ https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1227905993.ts
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/660444269.ts
 #EXTINF:-1 tvg-id="AU-00204" tvg-name="OPTUS 9" group-title="AU | Sport | PPV/Event",OPTUS 9
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/463537872.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="OPTUS 10" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",OPTUS 10
+#EXTINF:-1 tvg-id="au-au-00195" tvg-name="OPTUS 10" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/2085737364.ts
 #EXTINF:-1 tvg-id="AU-00196" tvg-name="OPTUS 11" group-title="AU | Sport | PPV/Event",OPTUS 11
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1321516643.ts
@@ -587,7 +587,7 @@ https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1168835869.ts
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1835385059.ts
 #EXTINF:-1 tvg-id="AU-00263" tvg-name="00:29)" group-title="AU | Sport | PPV/Event",00:29)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1476079450.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="10:29)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",10:29)
+#EXTINF:-1 tvg-id="au-au-00264" tvg-name="10:29)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1926336592.ts
 #EXTINF:-1 tvg-id="AU-00265" tvg-name="30:29)" group-title="AU | Sport | PPV/Event",30:29)
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/542216328.ts
@@ -725,91 +725,91 @@ https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/1639632420.ts
 https://app.m3ueditor.com/serve/fd91aadb0e09d3da/stream/364036123.ts
 #EXTINF:-1 tvg-id="AU-00001" tvg-name="####### 9NOW ᴿᴬᵂ #######" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",####### 9NOW ᴿᴬᵂ #######
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1472567012.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00029" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1309242522.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00037" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1681123547.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00045" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1433884524.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00053" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1102979577.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00024" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/830003350.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00032" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/686440688.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00040" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1004522882.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00048" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1120069306.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00056" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1997862132.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00022" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1435478851.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00030" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/506197429.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00038" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1034491023.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00046" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/747592162.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00054" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/617114684.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00023" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1122738487.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00031" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1866504009.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00039" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1671594362.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00047" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/794397471.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00055" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/208545154.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00025" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/472745652.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00033" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/92406107.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00041" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/162204856.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00049" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1972368081.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00057" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/821711823.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00019" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/394077832.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00026" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/846291269.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00034" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/2115040679.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00042" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/220187074.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00050" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/92018413.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00020" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1110778395.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00027" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/669806908.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00035" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1780740798.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00043" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1162322310.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00051" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/230823320.ts
-#EXTINF:-1 tvg-id="4542" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-au-00021" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",CHANNEL 9
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1056919160.ts
-#EXTINF:-1 tvg-id="1674" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-au-00028" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GEM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/578569922.ts
-#EXTINF:-1 tvg-id="1608" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-au-00036" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9GO!
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/517936964.ts
-#EXTINF:-1 tvg-id="1803" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-au-00044" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9LIFE
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/2040939944.ts
-#EXTINF:-1 tvg-id="1635" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-au-00052" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9RUSH
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/523168408.ts
 #EXTINF:-1 tvg-id="AU-00002" tvg-name="### AFL TV PPV ###" group-title="AU | Sport | PPV/Event",### AFL TV PPV ###
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/647799333.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="AFL TV 00 | Collingwood vs Carlton 10.30" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",AFL TV 00 | Collingwood vs Carlton 10.30
+#EXTINF:-1 tvg-id="au-au-00003" tvg-name="AFL TV 00 | Collingwood vs Carlton 10.30" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/2111125569.ts
 #EXTINF:-1 tvg-id="AU-00004" tvg-name="30" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",30
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1414371974.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="10am Sunday" group-title="AU | Sport | PPV/Event",10am Sunday
+#EXTINF:-1 tvg-id="au-au-00005" tvg-name="10am Sunday" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/564945409.ts
 #EXTINF:-1 tvg-id="AU-00006" tvg-name="25AM" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",25AM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1192148261.ts
@@ -837,7 +837,7 @@ https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1325088374.ts
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1572490371.ts
 #EXTINF:-1 tvg-id="AU-00016" tvg-name="7NOW" group-title="AU | General Entertainment",7NOW
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1155699719.ts
-#EXTINF:-1 tvg-id="1185" tvg-name="7BRAVO" group-title="AU | General Entertainment",7BRAVO
+#EXTINF:-1 tvg-id="au-au-00010" tvg-name="7BRAVO" group-title="AU | General Entertainment",7BRAVO
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1092555291.ts
 #EXTINF:-1 tvg-id="AU-00073" tvg-name="BLOOMBERG" group-title="AU | General Entertainment",BLOOMBERG
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/790472020.ts
@@ -867,19 +867,19 @@ https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1784044286.ts
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/907678189.ts
 #EXTINF:-1 tvg-id="3276" tvg-name="ABC KIDS" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | Kids",ABC KIDS
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1509829195.ts
-#EXTINF:-1 tvg-id="3276" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | VIC",ABC
+#EXTINF:-1 tvg-id="au-au-00060" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | VIC",ABC KIDS
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1790394173.ts
 #EXTINF:-1 tvg-id="5880" tvg-name="ABC ME" group-title="AU | General Entertainment",ABC ME
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/2110329613.ts
-#EXTINF:-1 tvg-id="3276" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | WA",ABC
+#EXTINF:-1 tvg-id="au-au-00062" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | WA",ABC KIDS
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1290196687.ts
-#EXTINF:-1 tvg-id="3276" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | NSW",ABC
+#EXTINF:-1 tvg-id="au-au-00063" tvg-name="ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | NSW",ABC KIDS
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/924723126.ts
 #EXTINF:-1 tvg-id="AU-00065" tvg-name="AL JAZEERA (NZ)" group-title="AU | General Entertainment",AL JAZEERA (NZ)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/516650397.ts
 #EXTINF:-1 tvg-id="AU-00077" tvg-name="CHANNEL7" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" group-title="AU | General Entertainment | NSW",CHANNEL7
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1087441635.ts
-#EXTINF:-1 tvg-id="1209" tvg-name="CHANNEL 7TWO" tvg-logo="https://i.mjh.nz/.images/auto-7two-per-701123.png" group-title="AU | General Entertainment | NSW",CHANNEL 7TWO
+#EXTINF:-1 tvg-id="au-au-00018" tvg-name="CHANNEL 7TWO" tvg-logo="https://i.mjh.nz/.images/auto-7two-per-701123.png" group-title="AU | General Entertainment | NSW",7TWO
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/552034461.ts
 #EXTINF:-1 tvg-id="1962" tvg-name="10 BOLD" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png" group-title="AU | General Entertainment",10 BOLD
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/138354488.ts
@@ -897,13 +897,13 @@ https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1129175037.ts
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/611534855.ts
 #EXTINF:-1 tvg-id="125577" tvg-name="ABC NEWS AUSTRALIA" group-title="AU | News",ABC NEWS AUSTRALIA
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1579492580.ts
-#EXTINF:-1 tvg-id="0" tvg-name="RACING" group-title="AU | General Entertainment",RACING
+#EXTINF:-1 tvg-id="au-au-00207" tvg-name="RACING" group-title="AU | General Entertainment",RACING.COM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/422534941.ts
-#EXTINF:-1 tvg-id="0" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | VIC",RACING.COM
+#EXTINF:-1 tvg-id="au-au-00208" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | VIC",RACING.COM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1973256191.ts
-#EXTINF:-1 tvg-id="0" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment",RACING.COM
+#EXTINF:-1 tvg-id="au-au-00209" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment",RACING.COM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/706520811.ts
-#EXTINF:-1 tvg-id="0" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | WA",RACING.COM
+#EXTINF:-1 tvg-id="au-au-00210" tvg-name="RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | WA",RACING.COM
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1921738646.ts
 #EXTINF:-1 tvg-id="AU-00213" tvg-name="REDBULL TV (NZ)" group-title="AU | General Entertainment",REDBULL TV (NZ)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1584833088.ts
@@ -933,7 +933,7 @@ https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1413712423.ts
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1567730306.ts
 #EXTINF:-1 tvg-id="AU-00224" tvg-name="SBS WORLD MOVIES" group-title="AU | Movies | WA",SBS WORLD MOVIES
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1741660140.ts
-#EXTINF:-1 tvg-id="3249" tvg-name="TVSN SHOPPING (NZ)" group-title="AU | General Entertainment",TVSN SHOPPING (NZ)
+#EXTINF:-1 tvg-id="au-au-00331" tvg-name="TVSN SHOPPING (NZ)" group-title="AU | General Entertainment",TVSN
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/812695456.ts
 #EXTINF:-1 tvg-id="AU-00069" tvg-name="BEIN SPORTS 1" group-title="AU | Sport",BEIN SPORTS 1
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/2038334165.ts
@@ -941,25 +941,25 @@ https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/2038334165.ts
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/2069754711.ts
 #EXTINF:-1 tvg-id="AU-00071" tvg-name="BEIN SPORTS 3" group-title="AU | Sport",BEIN SPORTS 3
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1181104044.ts
-#EXTINF:-1 tvg-id="6459" tvg-name="ESPN 1" group-title="AU | Sport",ESPN 1
+#EXTINF:-1 tvg-id="au-au-00078" tvg-name="ESPN 1" group-title="AU | Sport",ESPN
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/2045943261.ts
-#EXTINF:-1 tvg-id="6459" tvg-name="ESPN 2" group-title="AU | Sport",ESPN 2
+#EXTINF:-1 tvg-id="au-au-00079" tvg-name="ESPN 2" group-title="AU | Sport",ESPN
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/316214090.ts
 #EXTINF:-1 tvg-id="1461" tvg-name="Fox Sports News (Channel 500)" group-title="AU | Sport",Fox Sports News (Channel 500)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1551317292.ts
-#EXTINF:-1 tvg-id="1320" tvg-name="Fox Sports 501 (Channel 501)" group-title="AU | Sport",Fox Sports 501 (Channel 501)
+#EXTINF:-1 tvg-id="AU-00183" tvg-name="Fox Sports 501 (Channel 501)" group-title="AU | Sport",Fox Sports 501 (Channel 501)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/2110295705.ts
-#EXTINF:-1 tvg-id="1329" tvg-name="Fox Sports 502 (Channel 502)" group-title="AU | Sport",Fox Sports 502 (Channel 502)
+#EXTINF:-1 tvg-id="AU-00184" tvg-name="Fox Sports 502 (Channel 502)" group-title="AU | Sport",Fox Sports 502 (Channel 502)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1882566724.ts
 #EXTINF:-1 tvg-id="1545" tvg-name="Fox Sports 503 (Channel 503)" group-title="AU | Sport",Fox Sports 503 (Channel 503)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/593640567.ts
-#EXTINF:-1 tvg-id="1365" tvg-name="Fox Sports 504 (Channel 504)" group-title="AU | Sport",Fox Sports 504 (Channel 504)
+#EXTINF:-1 tvg-id="AU-00186" tvg-name="Fox Sports 504 (Channel 504)" group-title="AU | Sport",Fox Sports 504 (Channel 504)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/942143807.ts
 #EXTINF:-1 tvg-id="1344" tvg-name="Fox Sports 505 (Channel 505)" group-title="AU | Sport",Fox Sports 505 (Channel 505)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1428621913.ts
 #EXTINF:-1 tvg-id="1386" tvg-name="Fox Sports 506 (Channel 506)" group-title="AU | Sport",Fox Sports 506 (Channel 506)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1146967694.ts
-#EXTINF:-1 tvg-id="1377" tvg-name="Fox Sports 507 (Channel 507)" group-title="AU | Sport",Fox Sports 507 (Channel 507)
+#EXTINF:-1 tvg-id="AU-00189" tvg-name="Fox Sports 507 (Channel 507)" group-title="AU | Sport",Fox Sports 507 (Channel 507)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/139585631.ts
 #EXTINF:-1 tvg-id="AU-00225" tvg-name="SKY NEWS" group-title="AU | News",SKY NEWS
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1780096579.ts
@@ -1079,7 +1079,7 @@ https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/848580016.ts
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/456450601.ts
 #EXTINF:-1 tvg-id="AU-00128" tvg-name="(AU) ESPN PLAY 51 (D)" group-title="AU | Sport | PPV/Event",(AU) ESPN PLAY 51 (D)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/184708458.ts
-#EXTINF:-1 tvg-id="6459" tvg-name="WatchESPN NCAAM | Cal State Northridge vs. Idaho | 11-09-2023 9:00pm" group-title="AU | Sport | PPV/Event",WatchESPN NCAAM | Cal State Northridge vs. Idaho | 11-09-2023 9:00pm
+#EXTINF:-1 tvg-id="au-au-00129" tvg-name="WatchESPN NCAAM | Cal State Northridge vs. Idaho | 11-09-2023 9:00pm" group-title="AU | Sport | PPV/Event",ESPN
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/87644301.ts
 #EXTINF:-1 tvg-id="AU-00130" tvg-name="(AU) ESPN PLAY 53 (D)" group-title="AU | Sport | PPV/Event",(AU) ESPN PLAY 53 (D)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/668736687.ts
@@ -1183,23 +1183,23 @@ https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1409070741.ts
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/409519411.ts
 #EXTINF:-1 tvg-id="AU-00334" tvg-name="Panthers @ Sharks 4:30am Sun UK // 11:30pm Sat ET" group-title="AU | Sport | PPV/Event",Panthers @ Sharks 4:30am Sun UK // 11:30pm Sat ET
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1234799262.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00335" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1217364729.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00336" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/605630734.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00337" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/180007492.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00338" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1979351949.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00339" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1728856777.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00340" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/544270640.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00341" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1818981531.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00342" tvg-name="" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/59497651.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-au-00343" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1673115471.ts
 #EXTINF:-1 tvg-id="AU-00344" tvg-name="###### OPTUS PPV ######" group-title="AU | Sport | PPV/Event",###### OPTUS PPV ######
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1640489602.ts
@@ -1221,7 +1221,7 @@ https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1242714016.ts
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/481102917.ts
 #EXTINF:-1 tvg-id="AU-00204" tvg-name="OPTUS 9" group-title="AU | Sport | PPV/Event",OPTUS 9
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/817125525.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="OPTUS 10" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",OPTUS 10
+#EXTINF:-1 tvg-id="au-au-00195" tvg-name="OPTUS 10" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/310028063.ts
 #EXTINF:-1 tvg-id="AU-00196" tvg-name="OPTUS 11" group-title="AU | Sport | PPV/Event",OPTUS 11
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/541854945.ts
@@ -1311,7 +1311,7 @@ https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1879589510.ts
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/742878914.ts
 #EXTINF:-1 tvg-id="AU-00263" tvg-name="00:29)" group-title="AU | Sport | PPV/Event",00:29)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/1425948847.ts
-#EXTINF:-1 tvg-id="1857" tvg-name="10:29)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",10:29)
+#EXTINF:-1 tvg-id="au-au-00264" tvg-name="10:29)" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",10
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/514568578.ts
 #EXTINF:-1 tvg-id="AU-00265" tvg-name="30:29)" group-title="AU | Sport | PPV/Event",30:29)
 https://app.m3ueditor.com/serve/19b784b1e77f2b49/stream/465647392.ts
@@ -1479,29 +1479,29 @@ http://line.t4kv.shop/live/74aa178c66/72af154b410e/752165.ts
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/752161.ts
 #EXTINF:-1 tvg-id="1338" tvg-name="AU| 7FLIX" tvg-logo="https://i.mjh.nz/.images/auto-7flix-per-c6badc.png" group-title="AU | General Entertainment | NSW",AU| 7FLIX
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/752160.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| KAYO - ESPN 1" group-title="AU | Sport",AU| KAYO - ESPN 1
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| KAYO - ESPN 1" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1520168.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| KAYO - ESPN 2" group-title="AU | Sport",AU| KAYO - ESPN 2
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| KAYO - ESPN 2" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1520167.ts
 #EXTINF:-1 tvg-id="1461" tvg-name="AU| KAYO - FOX SPORTS NEWS" group-title="AU | Sport",AU| KAYO - FOX SPORTS NEWS
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1520172.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| KAYO - FOX SPORTS 501 CRICKET" group-title="AU | Sport",AU| KAYO - FOX SPORTS 501 CRICKET
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| KAYO - FOX SPORTS 501 CRICKET" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1520176.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| KAYO - FOX SPORTS 502 LEAUGE" group-title="AU | Sport",AU| KAYO - FOX SPORTS 502 LEAUGE
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| KAYO - FOX SPORTS 502 LEAUGE" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1520171.ts
 #EXTINF:-1 tvg-id="1545" tvg-name="AU| KAYO - FOX SPORTS 503" group-title="AU | Sport",AU| KAYO - FOX SPORTS 503
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1520175.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| KAYO - FOX SPORTS 504 FOTTY" group-title="AU | Sport",AU| KAYO - FOX SPORTS 504 FOTTY
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| KAYO - FOX SPORTS 504 FOTTY" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1520170.ts
 #EXTINF:-1 tvg-id="1344" tvg-name="AU| KAYO - FOX SPORTS 505" group-title="AU | Sport",AU| KAYO - FOX SPORTS 505
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1520174.ts
 #EXTINF:-1 tvg-id="1386" tvg-name="AU| KAYO - FOX SPORTS 506" group-title="AU | Sport",AU| KAYO - FOX SPORTS 506
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1520169.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| KAYO - FOX SPORTS 507" group-title="AU | Sport",AU| KAYO - FOX SPORTS 507
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| KAYO - FOX SPORTS 507" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1520173.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| BLOOMBERG" group-title="AU | General Entertainment",AU| BLOOMBERG
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| BLOOMBERG" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646979.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| TEN" group-title="AU | General Entertainment",AU| TEN
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| TEN" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646949.ts
 #EXTINF:-1 tvg-id="1320" tvg-name="AU| FOX CRICKET" group-title="AU | General Entertainment",AU| FOX CRICKET
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646948.ts
@@ -1511,15 +1511,15 @@ http://line.t4kv.shop/live/74aa178c66/72af154b410e/156884.ts
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156885.ts
 #EXTINF:-1 tvg-id="1209" tvg-name="AU| 7TWO" tvg-logo="https://i.mjh.nz/.images/auto-7two-per-701123.png" group-title="AU | General Entertainment | NSW",AU| 7TWO
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156903.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| ABC" group-title="AU | General Entertainment | QLD",AU| ABC
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| ABC" group-title="AU | General Entertainment | QLD",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156898.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| ABC COMEDY" group-title="AU | General Entertainment | VIC",AU| ABC COMEDY
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| ABC COMEDY" group-title="AU | General Entertainment | VIC",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156881.ts
 #EXTINF:-1 tvg-id="3276" tvg-name="AU| ABC KIDS" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | Kids",AU| ABC KIDS
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156901.ts
 #EXTINF:-1 tvg-id="3276" tvg-name="AU| ABC KIDS" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | Kids | WA",AU| ABC KIDS
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156864.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | VIC",AU| ABC
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | VIC",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156880.ts
 #EXTINF:-1 tvg-id="5880" tvg-name="AU| ABC ME" group-title="AU | General Entertainment | VIC",AU| ABC ME
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156882.ts
@@ -1527,287 +1527,287 @@ http://line.t4kv.shop/live/74aa178c66/72af154b410e/156882.ts
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156902.ts
 #EXTINF:-1 tvg-id="125577" tvg-name="AU| ABC NEWS" group-title="AU | News | NSW",AU| ABC NEWS
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1130813.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | WA",AU| ABC
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | WA",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156862.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | NSW",AU| ABC
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| ABC" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="AU | General Entertainment | NSW",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156899.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| AL JAZEERA (NZ)" group-title="AU | General Entertainment",AU| AL JAZEERA (NZ)
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| AL JAZEERA (NZ)" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156928.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| CHANNEL 7" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" group-title="AU | General Entertainment",AU| CHANNEL 7
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| CHANNEL 7" tvg-logo="https://i.mjh.nz/.images/auto-seven-per-9608a4.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/738209.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| CHANNEL 7TWO" tvg-logo="https://i.mjh.nz/.images/auto-7two-per-701123.png" group-title="AU | General Entertainment | NSW",AU| CHANNEL 7TWO
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| CHANNEL 7TWO" tvg-logo="https://i.mjh.nz/.images/auto-7two-per-701123.png" group-title="AU | General Entertainment | NSW",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/738208.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| CHANNEL 9 GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",AU| CHANNEL 9 GEM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| CHANNEL 9 GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1789687.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment | WA",AU| CHANNEL 9
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment | WA",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156865.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment | NSW",AU| CHANNEL 9
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment | NSW",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156905.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| CHANNEL 10" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | General Entertainment | WA",AU| CHANNEL 10
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| CHANNEL 10" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | General Entertainment | WA",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1789688.ts
 #EXTINF:-1 tvg-id="1962" tvg-name="AU| 10 BOLD" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/66c9f2639a7bca4a6691764a0db801d7-1384581.png" group-title="AU | General Entertainment",AU| 10 BOLD
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/579227.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| RACING" group-title="AU | General Entertainment",AU| RACING
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| RACING" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156848.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | VIC",AU| RACING.COM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | VIC",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156896.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment",AU| RACING.COM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156926.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | WA",AU| RACING.COM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| RACING.COM" tvg-logo="https://i.mjh.nz/.images/auto-racing-fast-de6aee.png" group-title="AU | General Entertainment | WA",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156876.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| REDBULL TV (NZ)" group-title="AU | General Entertainment",AU| REDBULL TV (NZ)
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| REDBULL TV (NZ)" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156930.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| REDBULL TV" group-title="AU | General Entertainment | VIC",AU| REDBULL TV
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| REDBULL TV" group-title="AU | General Entertainment | VIC",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156897.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| REDBULL TV" group-title="AU | General Entertainment",AU| REDBULL TV
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| REDBULL TV" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156927.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| REDBULL TV" group-title="AU | General Entertainment | WA",AU| REDBULL TV
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| REDBULL TV" group-title="AU | General Entertainment | WA",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156878.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS" group-title="AU | General Entertainment | QLD",AU| SBS
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS" group-title="AU | General Entertainment | QLD",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156918.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS FOOD" group-title="AU | General Entertainment | VIC",AU| SBS FOOD
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS FOOD" group-title="AU | General Entertainment | VIC",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156893.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS FOOD" group-title="AU | General Entertainment",AU| SBS FOOD
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS FOOD" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156920.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS FOOD" group-title="AU | General Entertainment | WA",AU| SBS FOOD
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS FOOD" group-title="AU | General Entertainment | WA",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156875.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS" group-title="AU | General Entertainment | VIC",AU| SBS
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS" group-title="AU | General Entertainment | VIC",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156894.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS" group-title="AU | General Entertainment | WA",AU| SBS
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS" group-title="AU | General Entertainment | WA",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156872.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS" group-title="AU | General Entertainment | NSW",AU| SBS
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS" group-title="AU | General Entertainment | NSW",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156919.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS VICELAND" group-title="AU | General Entertainment | VIC",AU| SBS VICELAND
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS VICELAND" group-title="AU | General Entertainment | VIC",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156895.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS VICELAND" group-title="AU | General Entertainment",AU| SBS VICELAND
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS VICELAND" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156922.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS VICELAND" group-title="AU | General Entertainment | WA",AU| SBS VICELAND
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS VICELAND" group-title="AU | General Entertainment | WA",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156874.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS WORLD MOVIES" group-title="AU | Movies",AU| SBS WORLD MOVIES
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS WORLD MOVIES" group-title="AU | Movies",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156923.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SBS WORLD MOVIES" group-title="AU | Movies | WA",AU| SBS WORLD MOVIES
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SBS WORLD MOVIES" group-title="AU | Movies | WA",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156873.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| TE REO (NZ)" group-title="AU | General Entertainment",AU| TE REO (NZ)
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| TE REO (NZ)" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156931.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| TVSN SHOPPING (NZ)" group-title="AU | General Entertainment",AU| TVSN SHOPPING (NZ)
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| TVSN SHOPPING (NZ)" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/156932.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| BEIN SPORTS 1" group-title="AU | Sport",AU| BEIN SPORTS 1
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| BEIN SPORTS 1" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646977.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| BEIN SPORTS 2" group-title="AU | Sport",AU| BEIN SPORTS 2
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| BEIN SPORTS 2" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646976.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| BEIN SPORTS 3" group-title="AU | Sport",AU| BEIN SPORTS 3
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| BEIN SPORTS 3" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646975.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| ESPN 1" group-title="AU | Sport",AU| ESPN 1
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| ESPN 1" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646974.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| ESPN 2" group-title="AU | Sport",AU| ESPN 2
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| ESPN 2" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646973.ts
 #EXTINF:-1 tvg-id="1461" tvg-name="AU| FOX SPORTS NEWS" group-title="AU | Sport",AU| FOX SPORTS NEWS
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646972.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| FOX SPORTS 501" group-title="AU | Sport",AU| FOX SPORTS 501
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| FOX SPORTS 501" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646971.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| FOX SPORTS 502" group-title="AU | Sport",AU| FOX SPORTS 502
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| FOX SPORTS 502" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646970.ts
 #EXTINF:-1 tvg-id="1545" tvg-name="AU| FOX SPORTS 503" group-title="AU | Sport",AU| FOX SPORTS 503
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646969.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| FOX SPORTS 504" group-title="AU | Sport",AU| FOX SPORTS 504
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| FOX SPORTS 504" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646968.ts
 #EXTINF:-1 tvg-id="1344" tvg-name="AU| FOX SPORTS 505" group-title="AU | Sport",AU| FOX SPORTS 505
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646967.ts
 #EXTINF:-1 tvg-id="1386" tvg-name="AU| FOX SPORTS 506" group-title="AU | Sport",AU| FOX SPORTS 506
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646966.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| FOX SPORTS 507" group-title="AU | Sport",AU| FOX SPORTS 507
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| FOX SPORTS 507" group-title="AU | Sport",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646965.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY NEWS" group-title="AU | News",AU| SKY NEWS
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY NEWS" group-title="AU | News",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/744203.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY NEWS EXTRA 1" group-title="AU | News",AU| SKY NEWS EXTRA 1
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY NEWS EXTRA 1" group-title="AU | News",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646959.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY NEWS EXTRA 2" group-title="AU | News",AU| SKY NEWS EXTRA 2
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY NEWS EXTRA 2" group-title="AU | News",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646958.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY NEWS ELECTION CHANNEL" group-title="AU | News",AU| SKY NEWS ELECTION CHANNEL
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY NEWS ELECTION CHANNEL" group-title="AU | News",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1812074.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY NEWS WEATHER" group-title="AU | News",AU| SKY NEWS WEATHER
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY NEWS WEATHER" group-title="AU | News",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1812073.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY NEWS AUSTRALIA" group-title="AU | News",AU| SKY NEWS AUSTRALIA
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY NEWS AUSTRALIA" group-title="AU | News",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1812072.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY NEWS EXTRA 1 (2)" group-title="AU | News",AU| SKY NEWS EXTRA 1 (2)
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY NEWS EXTRA 1 (2)" group-title="AU | News",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1812071.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY NEWS EXTRA 2 (2)" group-title="AU | News",AU| SKY NEWS EXTRA 2 (2)
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY NEWS EXTRA 2 (2)" group-title="AU | News",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1812070.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY NEWS EXTRA 3" group-title="AU | News",AU| SKY NEWS EXTRA 3
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY NEWS EXTRA 3" group-title="AU | News",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1812069.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY NEWS EXTRA 4" group-title="AU | News",AU| SKY NEWS EXTRA 4
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY NEWS EXTRA 4" group-title="AU | News",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1812068.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY NEWS EXTRA 5" group-title="AU | News",AU| SKY NEWS EXTRA 5
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY NEWS EXTRA 5" group-title="AU | News",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1812067.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY RACING 1" group-title="AU | General Entertainment",AU| SKY RACING 1
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY RACING 1" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646956.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY RACING 2" group-title="AU | General Entertainment",AU| SKY RACING 2
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY RACING 2" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646955.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY RACING 2" group-title="AU | General Entertainment",AU| SKY RACING 2
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY RACING 2" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646953.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| SKY RACING 1" group-title="AU | General Entertainment",AU| SKY RACING 1
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| SKY RACING 1" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/646952.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="####### 9NOW ᴿᴬᵂ #######" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",####### 9NOW ᴿᴬᵂ #######
+#EXTINF:-1 tvg-id="au-nan" tvg-name="####### 9NOW ᴿᴬᵂ #######" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1914826.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921349.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921348.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921347.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921346.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921345.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921344.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921343.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921342.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921341.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921340.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921339.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921338.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921337.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921336.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921335.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921334.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921333.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921332.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921331.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921330.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921329.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921328.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921327.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921326.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921325.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921324.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921323.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921322.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921321.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921320.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921319.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921318.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921317.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921316.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW CHANNEL 9
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW CHANNEL 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921315.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GEM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GEM" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921314.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9GO!
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9GO!" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921313.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9LIFE
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9LIFE" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921312.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",9NOW 9RUSH
+#EXTINF:-1 tvg-id="au-nan" tvg-name="9NOW 9RUSH" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="AU | General Entertainment",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1921311.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="Robbitohs vs Panthers 9:00am" group-title="AU | Sport | PPV/Event",Robbitohs vs Panthers 9:00am
+#EXTINF:-1 tvg-id="au-nan" tvg-name="Robbitohs vs Panthers 9:00am" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1395688.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="Panthers @ Sharks 4:30am Sun UK // 11:30pm Sat ET" group-title="AU | Sport | PPV/Event",Panthers @ Sharks 4:30am Sun UK // 11:30pm Sat ET
+#EXTINF:-1 tvg-id="au-nan" tvg-name="Panthers @ Sharks 4:30am Sun UK // 11:30pm Sat ET" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1395689.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-nan" tvg-name="" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1395690.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-nan" tvg-name="" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1395691.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-nan" tvg-name="" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1395692.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-nan" tvg-name="" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1395693.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-nan" tvg-name="" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1395694.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-nan" tvg-name="" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1395695.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-nan" tvg-name="" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1395696.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-nan" tvg-name="" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1395697.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",
+#EXTINF:-1 tvg-id="au-nan" tvg-name="" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1395698.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 1" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 1
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 1" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847886.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 2" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 2
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 2" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847887.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 3" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 3
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 3" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847888.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 4" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 4
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 4" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847889.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 5" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 5
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 5" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847890.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 6" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 6
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 6" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847891.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 7" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 7
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 7" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847892.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 8" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 8
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 8" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847893.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 9" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 9
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 9" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847894.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 10" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 10
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 10" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847895.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 11" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 11
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 11" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847896.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 12" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 12
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 12" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847897.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 13" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 13
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 13" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847898.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 14" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 14
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 14" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847899.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 15" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 15
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 15" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847900.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 16" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 16
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 16" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847901.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 17" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 17
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 17" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847902.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 18" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 18
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 18" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847903.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 19" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 19
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 19" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/847904.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 20" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 20
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 20" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1432240.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AU| STAN EVENT 21" group-title="AU | Sport | PPV/Event",AU| STAN EVENT 21
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AU| STAN EVENT 21" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1432241.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AFL TV 00 | Collingwood vs Carlton 10.30" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",AFL TV 00 | Collingwood vs Carlton 10.30
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AFL TV 00 | Collingwood vs Carlton 10.30" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1456974.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="30" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",30
+#EXTINF:-1 tvg-id="au-nan" tvg-name="30" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1456973.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="10am Sunday" group-title="AU | Sport | PPV/Event",10am Sunday
+#EXTINF:-1 tvg-id="au-nan" tvg-name="10am Sunday" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1456972.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="25AM" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",25AM
+#EXTINF:-1 tvg-id="au-nan" tvg-name="25AM" tvg-logo="https://10play.com.au/ip/s3/2025/06/25/b18ae76555d114f7bfaf1c3bfa43dd3f-1384577.png" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1456971.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AFL TV | No Scheduled Event" group-title="AU | Sport | PPV/Event",AFL TV | No Scheduled Event
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AFL TV | No Scheduled Event" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1456970.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AFL TV | No Scheduled Event (2)" group-title="AU | Sport | PPV/Event",AFL TV | No Scheduled Event (2)
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AFL TV | No Scheduled Event (2)" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1456969.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AFL TV | No Scheduled Event (3)" group-title="AU | Sport | PPV/Event",AFL TV | No Scheduled Event (3)
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AFL TV | No Scheduled Event (3)" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1456968.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AFL TV | No Scheduled Event (4)" group-title="AU | Sport | PPV/Event",AFL TV | No Scheduled Event (4)
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AFL TV | No Scheduled Event (4)" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1456967.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="AFL TV | No Scheduled Event (5)" group-title="AU | Sport | PPV/Event",AFL TV | No Scheduled Event (5)
+#EXTINF:-1 tvg-id="au-nan" tvg-name="AFL TV | No Scheduled Event (5)" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1456966.ts
 #EXTINF:-1 tvg-id="nan" tvg-name="##### AU ESPN PLAY PPV #####" group-title="AU | Sport | PPV/Event",##### AU ESPN PLAY PPV #####
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1364009.ts
@@ -1913,7 +1913,7 @@ http://line.t4kv.shop/live/74aa178c66/72af154b410e/1364058.ts
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1364059.ts
 #EXTINF:-1 tvg-id="nan" tvg-name="(AU) ESPN PLAY 51 (D)" group-title="AU | Sport | PPV/Event",(AU) ESPN PLAY 51 (D)
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1364060.ts
-#EXTINF:-1 tvg-id="nan" tvg-name="WatchESPN NCAAM | Cal State Northridge vs. Idaho | 11-09-2023 9:00pm" group-title="AU | Sport | PPV/Event",WatchESPN NCAAM | Cal State Northridge vs. Idaho | 11-09-2023 9:00pm
+#EXTINF:-1 tvg-id="au-nan" tvg-name="WatchESPN NCAAM | Cal State Northridge vs. Idaho | 11-09-2023 9:00pm" group-title="AU | Sport | PPV/Event",ESPN
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1364061.ts
 #EXTINF:-1 tvg-id="nan" tvg-name="(AU) ESPN PLAY 53 (D)" group-title="AU | Sport | PPV/Event",(AU) ESPN PLAY 53 (D)
 http://line.t4kv.shop/live/74aa178c66/72af154b410e/1364062.ts
